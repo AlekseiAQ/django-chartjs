@@ -1,1 +1,1 @@
-# Heroku Django Starter Template
+# Basic Django Chartjs App
